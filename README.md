@@ -2,6 +2,8 @@
 System Capacity &amp; Care Load Analytics for Unaccompanied Children – A data analytics and forecasting dashboard that monitors CBP and HHS care load, analyzes intake-discharge balance, identifies capacity stress periods, and supports data-driven decision making using Python, Machine Learning, and Streamlit.
 # System Capacity & Care Load Analytics for Unaccompanied Children
 
+##Research Report
+https://www.researchgate.net/publication/402776639_System_Capacity_Care_Load_Analytics_for_Unaccompanied_Children
 ## Live Dashboard
 https://systemcapacityanalytics.streamlit.app/
 ## Project Overview
